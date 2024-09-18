@@ -4,6 +4,7 @@
 1:::matrixnew
 2:::gaussthenum
 3:::table
+4::: print
 
 
 
@@ -84,4 +85,8 @@ Enter a num
 5 X 10 = 50
 you want to continue[y/n] : n
 Thanks
+#print
+When you run the program, it will prompt you to enter a value for n.
+The program will then count from 0 to n in increments of 0.005, displaying each value in green text.
+The screen will be cleared after each value is displayed, creating a dynamic effect.
 
