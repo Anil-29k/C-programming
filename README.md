@@ -5,6 +5,7 @@
 2:::gaussthenum
 3:::table
 4::: print
+5::: Fullpyramid
 
 
 
@@ -89,4 +90,7 @@ Thanks
 When you run the program, it will prompt you to enter a value for n.
 The program will then count from 0 to n in increments of 0.005, displaying each value in green text.
 The screen will be cleared after each value is displayed, creating a dynamic effect.
-
+#Fullpyramid
+When you run the program, it will prompt you to enter the number of rows for the pyramid.
+The program will then display a full pyramid star pattern with the specified number of rows.
+After displaying the pattern, the program will ask if you want to continue. Enter ‘y’ to generate another pattern or ‘n’ to exit the program.
