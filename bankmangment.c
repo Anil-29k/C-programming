@@ -10,7 +10,7 @@ int phoninput(char phno[11])
         for (int i = 0; i < 10; i++)
         {
             if (isdigit(phno[i]))
-            {
+            { 
             }
             else
             {
